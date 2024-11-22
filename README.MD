@@ -13,6 +13,14 @@ El proyecto plantea analizar un conjunto de 50 imágenes (25 de zonas urbanas y 
 ### Descripción del Dataset
 El dataset utilizado en este proyecto está compuesto por un total de 50 imágenes digitales obtenidas de diversas fuentes públicas en internet. Las imágenes se dividen en dos categorías principales: ciudad y campo. Cada una de estas categorías contiene 25 imágenes. Las imágenes de ciudad representan escenarios urbanos, con elementos como edificios, carreteras, tráfico y paisajes industriales. Por otro lado, las imágenes de campo presentan entornos rurales, con paisajes naturales como bosques, montañas, ríos y campos agrícolas.
 
+Aquí algunas imagenes del dataset:
+- Para los que son ciudades: 
+![alt text](img7.jpg)
+![alt text](img11.jpg)
+- Para los que son campos:
+![alt text](img5.jpg)
+![alt text](img18.jpg)
+
 ### Características del Dataset
 **Formato de los datos:** 
 - Las imágenes están en formato JPG, con dimensiones variables, que serán normalizadas en el preprocesamiento para un análisis uniforme.
